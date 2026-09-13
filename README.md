@@ -883,6 +883,15 @@ Um dos principais aprendizados foi perceber que construir um modelo de dados nã
 
 ---
 
+## 🎥 Vídeo de apresentação do projeto
+
+O vídeo apresenta o modelo dimensional, a execução das consultas,
+a organização dos scripts e as decisões tomadas durante o desenvolvimento.
+
+▶️ [Assistir ao vídeo de apresentação no Google Drive] (https://drive.google.com/file/d/1hdlBzeqwtbEbC0H9V3h-B-g7ELnRXspO/view?usp=sharing)
+
+---
+
 # 26. Autor
 
 **Valter Fernandes**
